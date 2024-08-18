@@ -24,6 +24,10 @@ This process requires resuming the training for an additional 300 steps. While t
    ```
 **2. Install necessary packages**
 - use the `./requirements.txt` file to install the dependencies on your machine/environment
+  ```
+  cd ./FastPitch_new
+  pip install -r requirements.txt
+  ```
 
 ## Usage instructions
 
